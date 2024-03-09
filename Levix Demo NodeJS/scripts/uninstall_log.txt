@@ -1,0 +1,6 @@
+Undoing changes...
+All scheduled shutdowns have been cancelled.
+All changes have been successfully reverted.
+Power plan restored successfully 
+System volume has been reset 
+OneDrive could not be enabled. 
