@@ -19,7 +19,9 @@ This application is designed to optimize display devices in an ICT shop environm
 First manual run must be executed to configure startup URLs and initiate the application as a background service.
 
 ## Installation
-1. 
+1. Clone this repository or download the zip file.
+2. Install the required dependencies by running `npm install`.
+3. Start the application using `npm start`.
 
 ## Usage
 
